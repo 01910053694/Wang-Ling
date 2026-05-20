@@ -1,7 +1,7 @@
 {
   "name": "Pakhi without Limon",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made by Limon",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -22,10 +22,10 @@
     "shahadatproject",
     "messenger",
     "javascript",
-    "shadat",
+    "Limon",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "Limon",
+    "Limon chat bot"
   ],
   "author": "pakhi without Limon",
   "license": "MIT",
