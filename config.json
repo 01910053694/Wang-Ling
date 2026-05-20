@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Limon without pakhi",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -17,10 +17,10 @@
 
   "ADMINBOT": [
     "61589922024564",
-    "61586663640809",
-    "100044713412032"
+    "61589922024564",
+    "61589922024564"
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["61589922024564"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
